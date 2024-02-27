@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,6 +12,11 @@ namespace Module1Exercise1
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+        protected void btnPlay_Click(object sender, EventArgs e)
+        {
+            // TODO 2.4 Set the text of lblNowPlaying to display "Now playing <favorite song>"
+            lblNowPlaying.Text = "Now playing huh - glaive";
         }
     }
 }
