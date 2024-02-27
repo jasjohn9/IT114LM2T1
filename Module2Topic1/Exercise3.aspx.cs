@@ -28,8 +28,6 @@ namespace Module1Exercise1
                 if (percentage > 96)
                 {
                     grade = "1.00";
-                    // Display congratulatory message if grade is 1.00
-                    Response.Write($"<script>alert('Congrats, you got an uno !!!')</script>");
                 }
                 else if (percentage > 91.51)
                 {
