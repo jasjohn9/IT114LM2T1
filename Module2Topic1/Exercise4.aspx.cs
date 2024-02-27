@@ -21,7 +21,7 @@ namespace Module1Exercise1
             if (IsValid)
             {
                 // Display the inputted texts in the "result" label
-                result.Text = $"Full Name: {fullName.Text}<br />" +
+                result.Text = $"<br /><br />Full Name: {fullName.Text}<br />" +
                               $"Age: {age.Text}<br />" +
                               $"Email: {email.Text}<br />" +
                               $"Confirm Email: {confirmEmail.Text}";
