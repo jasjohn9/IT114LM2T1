@@ -1,4 +1,4 @@
-<%@ Page Language="C#" CodeBehind="~/Default.aspx.cs" Inherits="Module1Exercise1.Exercise1" %>
+<%@ Page Language="C#" CodeBehind="~/Exercise1.aspx.cs" Inherits="Module1Exercise1.Exercise1" %>
 
 <%-- Exercise 1: Exploring Basic Controls of ASP.NET WebForms--%>
 <%-- Useful References: https://www.tutorialspoint.com/asp.net/index.htm --%>
